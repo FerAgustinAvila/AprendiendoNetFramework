@@ -1,0 +1,6 @@
+C:\Users\enrique.munguia\Documents\Visual Studio 2015\Projects\ClaseObject\ClaseObject\bin\Debug\ClaseObject.exe.config
+C:\Users\enrique.munguia\Documents\Visual Studio 2015\Projects\ClaseObject\ClaseObject\bin\Debug\ClaseObject.exe
+C:\Users\enrique.munguia\Documents\Visual Studio 2015\Projects\ClaseObject\ClaseObject\bin\Debug\ClaseObject.pdb
+C:\Users\enrique.munguia\Documents\Visual Studio 2015\Projects\ClaseObject\ClaseObject\obj\Debug\ClaseObject.csprojResolveAssemblyReference.cache
+C:\Users\enrique.munguia\Documents\Visual Studio 2015\Projects\ClaseObject\ClaseObject\obj\Debug\ClaseObject.exe
+C:\Users\enrique.munguia\Documents\Visual Studio 2015\Projects\ClaseObject\ClaseObject\obj\Debug\ClaseObject.pdb

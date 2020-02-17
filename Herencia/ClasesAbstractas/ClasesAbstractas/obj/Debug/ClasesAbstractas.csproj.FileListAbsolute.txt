@@ -1,0 +1,6 @@
+c:\users\enrique.munguia\documents\visual studio 2015\Projects\ClasesAbstractas\ClasesAbstractas\bin\Debug\ClasesAbstractas.exe.config
+c:\users\enrique.munguia\documents\visual studio 2015\Projects\ClasesAbstractas\ClasesAbstractas\bin\Debug\ClasesAbstractas.exe
+c:\users\enrique.munguia\documents\visual studio 2015\Projects\ClasesAbstractas\ClasesAbstractas\bin\Debug\ClasesAbstractas.pdb
+c:\users\enrique.munguia\documents\visual studio 2015\Projects\ClasesAbstractas\ClasesAbstractas\obj\Debug\ClasesAbstractas.csprojResolveAssemblyReference.cache
+c:\users\enrique.munguia\documents\visual studio 2015\Projects\ClasesAbstractas\ClasesAbstractas\obj\Debug\ClasesAbstractas.exe
+c:\users\enrique.munguia\documents\visual studio 2015\Projects\ClasesAbstractas\ClasesAbstractas\obj\Debug\ClasesAbstractas.pdb

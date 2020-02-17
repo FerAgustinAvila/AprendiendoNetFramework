@@ -1,0 +1,6 @@
+c:\users\enrique.munguia\documents\visual studio 2015\Projects\Herencia\Herencia\bin\Debug\Herencia.exe.config
+c:\users\enrique.munguia\documents\visual studio 2015\Projects\Herencia\Herencia\bin\Debug\Herencia.exe
+c:\users\enrique.munguia\documents\visual studio 2015\Projects\Herencia\Herencia\bin\Debug\Herencia.pdb
+c:\users\enrique.munguia\documents\visual studio 2015\Projects\Herencia\Herencia\obj\Debug\Herencia.csprojResolveAssemblyReference.cache
+c:\users\enrique.munguia\documents\visual studio 2015\Projects\Herencia\Herencia\obj\Debug\Herencia.exe
+c:\users\enrique.munguia\documents\visual studio 2015\Projects\Herencia\Herencia\obj\Debug\Herencia.pdb
