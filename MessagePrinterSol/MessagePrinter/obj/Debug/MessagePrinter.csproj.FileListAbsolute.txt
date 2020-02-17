@@ -1,0 +1,6 @@
+C:\Users\admin\source\repos\MessagePrinterSol\MessagePrinter\bin\Debug\MessagePrinter.exe.config
+C:\Users\admin\source\repos\MessagePrinterSol\MessagePrinter\bin\Debug\MessagePrinter.exe
+C:\Users\admin\source\repos\MessagePrinterSol\MessagePrinter\bin\Debug\MessagePrinter.pdb
+C:\Users\admin\source\repos\MessagePrinterSol\MessagePrinter\obj\Debug\MessagePrinter.csprojAssemblyReference.cache
+C:\Users\admin\source\repos\MessagePrinterSol\MessagePrinter\obj\Debug\MessagePrinter.exe
+C:\Users\admin\source\repos\MessagePrinterSol\MessagePrinter\obj\Debug\MessagePrinter.pdb

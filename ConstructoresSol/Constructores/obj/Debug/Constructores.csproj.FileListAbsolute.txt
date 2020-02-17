@@ -1,0 +1,6 @@
+C:\Users\admin\source\repos\ConstructoresSol\Constructores\bin\Debug\Constructores.exe.config
+C:\Users\admin\source\repos\ConstructoresSol\Constructores\bin\Debug\Constructores.exe
+C:\Users\admin\source\repos\ConstructoresSol\Constructores\bin\Debug\Constructores.pdb
+C:\Users\admin\source\repos\ConstructoresSol\Constructores\obj\Debug\Constructores.csprojAssemblyReference.cache
+C:\Users\admin\source\repos\ConstructoresSol\Constructores\obj\Debug\Constructores.exe
+C:\Users\admin\source\repos\ConstructoresSol\Constructores\obj\Debug\Constructores.pdb

@@ -1,0 +1,6 @@
+C:\Users\admin\source\repos\CircleAreaCalculatorSol\CircleAreaCalculator\bin\Debug\CircleAreaCalculator.exe.config
+C:\Users\admin\source\repos\CircleAreaCalculatorSol\CircleAreaCalculator\bin\Debug\CircleAreaCalculator.exe
+C:\Users\admin\source\repos\CircleAreaCalculatorSol\CircleAreaCalculator\bin\Debug\CircleAreaCalculator.pdb
+C:\Users\admin\source\repos\CircleAreaCalculatorSol\CircleAreaCalculator\obj\Debug\CircleAreaCalculator.csprojAssemblyReference.cache
+C:\Users\admin\source\repos\CircleAreaCalculatorSol\CircleAreaCalculator\obj\Debug\CircleAreaCalculator.exe
+C:\Users\admin\source\repos\CircleAreaCalculatorSol\CircleAreaCalculator\obj\Debug\CircleAreaCalculator.pdb

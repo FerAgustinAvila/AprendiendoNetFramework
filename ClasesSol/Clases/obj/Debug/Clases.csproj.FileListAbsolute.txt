@@ -1,0 +1,6 @@
+C:\Users\admin\source\repos\ClasesSol\Clases\bin\Debug\Clases.exe.config
+C:\Users\admin\source\repos\ClasesSol\Clases\bin\Debug\Clases.exe
+C:\Users\admin\source\repos\ClasesSol\Clases\bin\Debug\Clases.pdb
+C:\Users\admin\source\repos\ClasesSol\Clases\obj\Debug\Clases.csprojAssemblyReference.cache
+C:\Users\admin\source\repos\ClasesSol\Clases\obj\Debug\Clases.exe
+C:\Users\admin\source\repos\ClasesSol\Clases\obj\Debug\Clases.pdb

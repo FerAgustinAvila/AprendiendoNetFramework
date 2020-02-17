@@ -1,0 +1,7 @@
+c:\users\enrique.munguia\documents\visual studio 2015\Projects\ControlAcceso\ControlAcceso\bin\Debug\ControlAcceso.exe.config
+C:\Users\admin\source\repos\ControlAcceso\ControlAcceso\bin\Debug\ControlAcceso.exe.config
+C:\Users\admin\source\repos\ControlAcceso\ControlAcceso\bin\Debug\ControlAcceso.exe
+C:\Users\admin\source\repos\ControlAcceso\ControlAcceso\bin\Debug\ControlAcceso.pdb
+C:\Users\admin\source\repos\ControlAcceso\ControlAcceso\obj\Debug\ControlAcceso.csprojAssemblyReference.cache
+C:\Users\admin\source\repos\ControlAcceso\ControlAcceso\obj\Debug\ControlAcceso.exe
+C:\Users\admin\source\repos\ControlAcceso\ControlAcceso\obj\Debug\ControlAcceso.pdb

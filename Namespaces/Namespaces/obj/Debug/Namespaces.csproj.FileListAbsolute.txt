@@ -1,0 +1,11 @@
+c:\users\enrique.munguia\documents\visual studio 2015\Projects\Namespaces\Namespaces\bin\Debug\Namespaces.exe.config
+c:\users\enrique.munguia\documents\visual studio 2015\Projects\Namespaces\Namespaces\bin\Debug\Namespaces.exe
+c:\users\enrique.munguia\documents\visual studio 2015\Projects\Namespaces\Namespaces\bin\Debug\Namespaces.pdb
+c:\users\enrique.munguia\documents\visual studio 2015\Projects\Namespaces\Namespaces\obj\Debug\Namespaces.exe
+c:\users\enrique.munguia\documents\visual studio 2015\Projects\Namespaces\Namespaces\obj\Debug\Namespaces.pdb
+C:\Users\admin\source\repos\Namespaces\Namespaces\bin\Debug\Namespaces.exe.config
+C:\Users\admin\source\repos\Namespaces\Namespaces\bin\Debug\Namespaces.exe
+C:\Users\admin\source\repos\Namespaces\Namespaces\bin\Debug\Namespaces.pdb
+C:\Users\admin\source\repos\Namespaces\Namespaces\obj\Debug\Namespaces.csprojAssemblyReference.cache
+C:\Users\admin\source\repos\Namespaces\Namespaces\obj\Debug\Namespaces.exe
+C:\Users\admin\source\repos\Namespaces\Namespaces\obj\Debug\Namespaces.pdb

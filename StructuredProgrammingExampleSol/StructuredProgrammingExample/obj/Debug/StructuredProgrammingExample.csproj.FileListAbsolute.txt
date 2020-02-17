@@ -1,0 +1,6 @@
+C:\Users\admin\source\repos\StructuredProgrammingExampleSol\StructuredProgrammingExample\obj\Debug\StructuredProgrammingExample.csprojAssemblyReference.cache
+C:\Users\admin\source\repos\StructuredProgrammingExampleSol\StructuredProgrammingExample\bin\Debug\StructuredProgrammingExample.exe.config
+C:\Users\admin\source\repos\StructuredProgrammingExampleSol\StructuredProgrammingExample\bin\Debug\StructuredProgrammingExample.exe
+C:\Users\admin\source\repos\StructuredProgrammingExampleSol\StructuredProgrammingExample\bin\Debug\StructuredProgrammingExample.pdb
+C:\Users\admin\source\repos\StructuredProgrammingExampleSol\StructuredProgrammingExample\obj\Debug\StructuredProgrammingExample.exe
+C:\Users\admin\source\repos\StructuredProgrammingExampleSol\StructuredProgrammingExample\obj\Debug\StructuredProgrammingExample.pdb

@@ -1,0 +1,5 @@
+C:\Users\admin\source\repos\MetodosDeInstancia\MetodosDeInstancia\bin\Debug\MetodosDeInstancia.exe
+C:\Users\admin\source\repos\MetodosDeInstancia\MetodosDeInstancia\bin\Debug\MetodosDeInstancia.pdb
+C:\Users\admin\source\repos\MetodosDeInstancia\MetodosDeInstancia\obj\x86\Debug\MetodosDeInstancia.csprojAssemblyReference.cache
+C:\Users\admin\source\repos\MetodosDeInstancia\MetodosDeInstancia\obj\x86\Debug\MetodosDeInstancia.exe
+C:\Users\admin\source\repos\MetodosDeInstancia\MetodosDeInstancia\obj\x86\Debug\MetodosDeInstancia.pdb

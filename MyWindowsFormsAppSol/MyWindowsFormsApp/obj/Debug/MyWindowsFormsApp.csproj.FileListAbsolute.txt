@@ -1,0 +1,8 @@
+C:\Users\admin\source\repos\MyWindowsFormsAppSol\MyWindowsFormsApp\bin\Debug\MyWindowsFormsApp.exe.config
+C:\Users\admin\source\repos\MyWindowsFormsAppSol\MyWindowsFormsApp\bin\Debug\MyWindowsFormsApp.exe
+C:\Users\admin\source\repos\MyWindowsFormsAppSol\MyWindowsFormsApp\bin\Debug\MyWindowsFormsApp.pdb
+C:\Users\admin\source\repos\MyWindowsFormsAppSol\MyWindowsFormsApp\obj\Debug\MyWindowsFormsApp.csprojAssemblyReference.cache
+C:\Users\admin\source\repos\MyWindowsFormsAppSol\MyWindowsFormsApp\obj\Debug\MyWindowsFormsApp.Properties.Resources.resources
+C:\Users\admin\source\repos\MyWindowsFormsAppSol\MyWindowsFormsApp\obj\Debug\MyWindowsFormsApp.csproj.GenerateResource.cache
+C:\Users\admin\source\repos\MyWindowsFormsAppSol\MyWindowsFormsApp\obj\Debug\MyWindowsFormsApp.exe
+C:\Users\admin\source\repos\MyWindowsFormsAppSol\MyWindowsFormsApp\obj\Debug\MyWindowsFormsApp.pdb

@@ -1,0 +1,5 @@
+C:\Users\admin\source\repos\MiembrosEstaticos\MiembrosEstaticos\bin\Debug\MiembrosEstaticos.exe
+C:\Users\admin\source\repos\MiembrosEstaticos\MiembrosEstaticos\bin\Debug\MiembrosEstaticos.pdb
+C:\Users\admin\source\repos\MiembrosEstaticos\MiembrosEstaticos\obj\x86\Debug\MiembrosEstaticos.csprojAssemblyReference.cache
+C:\Users\admin\source\repos\MiembrosEstaticos\MiembrosEstaticos\obj\x86\Debug\MiembrosEstaticos.exe
+C:\Users\admin\source\repos\MiembrosEstaticos\MiembrosEstaticos\obj\x86\Debug\MiembrosEstaticos.pdb

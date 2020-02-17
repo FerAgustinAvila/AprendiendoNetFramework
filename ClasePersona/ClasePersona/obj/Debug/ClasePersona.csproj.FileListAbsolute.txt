@@ -1,0 +1,6 @@
+c:\users\enrique.munguia\documents\visual studio 2015\Projects\ClasePersona\ClasePersona\bin\Debug\ClasePersona.exe.config
+c:\users\enrique.munguia\documents\visual studio 2015\Projects\ClasePersona\ClasePersona\bin\Debug\ClasePersona.exe
+c:\users\enrique.munguia\documents\visual studio 2015\Projects\ClasePersona\ClasePersona\bin\Debug\ClasePersona.pdb
+c:\users\enrique.munguia\documents\visual studio 2015\Projects\ClasePersona\ClasePersona\obj\Debug\ClasePersona.csprojResolveAssemblyReference.cache
+c:\users\enrique.munguia\documents\visual studio 2015\Projects\ClasePersona\ClasePersona\obj\Debug\ClasePersona.exe
+c:\users\enrique.munguia\documents\visual studio 2015\Projects\ClasePersona\ClasePersona\obj\Debug\ClasePersona.pdb
