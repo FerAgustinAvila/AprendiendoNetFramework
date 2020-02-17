@@ -27,6 +27,7 @@ namespace Polimorfismo
             Circulo c = f1 as Circulo;
             Console.WriteLine("Datos del círculo");
             c.DatosCirculos();
+            Console.Read();
         }
     }
 }

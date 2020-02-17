@@ -4,3 +4,9 @@ c:\users\enrique.munguia\documents\visual studio 2015\Projects\ComparacionObjeto
 c:\users\enrique.munguia\documents\visual studio 2015\Projects\ComparacionObjetos\ComparacionObjetos\obj\Debug\ComparacionObjetos.csprojResolveAssemblyReference.cache
 c:\users\enrique.munguia\documents\visual studio 2015\Projects\ComparacionObjetos\ComparacionObjetos\obj\Debug\ComparacionObjetos.exe
 c:\users\enrique.munguia\documents\visual studio 2015\Projects\ComparacionObjetos\ComparacionObjetos\obj\Debug\ComparacionObjetos.pdb
+C:\Users\admin\source\repos\Polimorfissmo\ComparacionObjetos\ComparacionObjetos\bin\Debug\ComparacionObjetos.exe.config
+C:\Users\admin\source\repos\Polimorfissmo\ComparacionObjetos\ComparacionObjetos\bin\Debug\ComparacionObjetos.exe
+C:\Users\admin\source\repos\Polimorfissmo\ComparacionObjetos\ComparacionObjetos\bin\Debug\ComparacionObjetos.pdb
+C:\Users\admin\source\repos\Polimorfissmo\ComparacionObjetos\ComparacionObjetos\obj\Debug\ComparacionObjetos.csprojAssemblyReference.cache
+C:\Users\admin\source\repos\Polimorfissmo\ComparacionObjetos\ComparacionObjetos\obj\Debug\ComparacionObjetos.exe
+C:\Users\admin\source\repos\Polimorfissmo\ComparacionObjetos\ComparacionObjetos\obj\Debug\ComparacionObjetos.pdb

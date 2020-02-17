@@ -4,3 +4,9 @@ c:\users\enrique.munguia\documents\visual studio 2015\Projects\Polimorfismo\Poli
 c:\users\enrique.munguia\documents\visual studio 2015\Projects\Polimorfismo\Polimorfismo\obj\Debug\Polimorfismo.csprojResolveAssemblyReference.cache
 c:\users\enrique.munguia\documents\visual studio 2015\Projects\Polimorfismo\Polimorfismo\obj\Debug\Polimorfismo.exe
 c:\users\enrique.munguia\documents\visual studio 2015\Projects\Polimorfismo\Polimorfismo\obj\Debug\Polimorfismo.pdb
+C:\Users\admin\source\repos\Polimorfissmo\Polimorfismo\Polimorfismo\bin\Debug\Polimorfismo.exe.config
+C:\Users\admin\source\repos\Polimorfissmo\Polimorfismo\Polimorfismo\bin\Debug\Polimorfismo.exe
+C:\Users\admin\source\repos\Polimorfissmo\Polimorfismo\Polimorfismo\bin\Debug\Polimorfismo.pdb
+C:\Users\admin\source\repos\Polimorfissmo\Polimorfismo\Polimorfismo\obj\Debug\Polimorfismo.csprojAssemblyReference.cache
+C:\Users\admin\source\repos\Polimorfissmo\Polimorfismo\Polimorfismo\obj\Debug\Polimorfismo.exe
+C:\Users\admin\source\repos\Polimorfissmo\Polimorfismo\Polimorfismo\obj\Debug\Polimorfismo.pdb

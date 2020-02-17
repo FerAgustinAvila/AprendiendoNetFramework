@@ -19,7 +19,9 @@ namespace ComparacionObjetos
             foreach (var prod in productos)
             {
                 Console.WriteLine("Código: {0}, Precio: {1}", prod.Codigo, prod.Precio);
-            }                        
+            }
+
+            Console.Read();
         }
     }
 }
