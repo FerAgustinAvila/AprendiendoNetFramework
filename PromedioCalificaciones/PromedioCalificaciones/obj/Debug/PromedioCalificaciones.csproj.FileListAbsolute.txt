@@ -1,0 +1,5 @@
+c:\users\enrique.munguia\documents\visual studio 2015\Projects\PromedioCalificaciones\PromedioCalificaciones\bin\Debug\PromedioCalificaciones.exe.config
+c:\users\enrique.munguia\documents\visual studio 2015\Projects\PromedioCalificaciones\PromedioCalificaciones\bin\Debug\PromedioCalificaciones.exe
+c:\users\enrique.munguia\documents\visual studio 2015\Projects\PromedioCalificaciones\PromedioCalificaciones\bin\Debug\PromedioCalificaciones.pdb
+c:\users\enrique.munguia\documents\visual studio 2015\Projects\PromedioCalificaciones\PromedioCalificaciones\obj\Debug\PromedioCalificaciones.exe
+c:\users\enrique.munguia\documents\visual studio 2015\Projects\PromedioCalificaciones\PromedioCalificaciones\obj\Debug\PromedioCalificaciones.pdb

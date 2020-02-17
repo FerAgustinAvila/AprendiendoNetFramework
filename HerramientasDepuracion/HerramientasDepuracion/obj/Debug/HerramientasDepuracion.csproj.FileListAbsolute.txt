@@ -1,0 +1,12 @@
+C:\Users\enrique.munguia\Downloads\csharp-examples-master\HerramientasDepuracion\HerramientasDepuracion\bin\Debug\HerramientasDepuracion.exe.config
+C:\Users\enrique.munguia\Downloads\csharp-examples-master\HerramientasDepuracion\HerramientasDepuracion\bin\Debug\HerramientasDepuracion.exe
+C:\Users\enrique.munguia\Downloads\csharp-examples-master\HerramientasDepuracion\HerramientasDepuracion\bin\Debug\HerramientasDepuracion.pdb
+C:\Users\enrique.munguia\Downloads\csharp-examples-master\HerramientasDepuracion\HerramientasDepuracion\obj\Debug\HerramientasDepuracion.csprojResolveAssemblyReference.cache
+C:\Users\enrique.munguia\Downloads\csharp-examples-master\HerramientasDepuracion\HerramientasDepuracion\obj\Debug\HerramientasDepuracion.exe
+C:\Users\enrique.munguia\Downloads\csharp-examples-master\HerramientasDepuracion\HerramientasDepuracion\obj\Debug\HerramientasDepuracion.pdb
+C:\Users\enrique.munguia\Documents\Curso C#\HerramientasDepuracion\HerramientasDepuracion\bin\Debug\HerramientasDepuracion.exe.config
+C:\Users\enrique.munguia\Documents\Curso C#\HerramientasDepuracion\HerramientasDepuracion\obj\Debug\HerramientasDepuracion.exe
+C:\Users\enrique.munguia\Documents\Curso C#\HerramientasDepuracion\HerramientasDepuracion\obj\Debug\HerramientasDepuracion.pdb
+C:\Users\enrique.munguia\Documents\Curso C#\HerramientasDepuracion\HerramientasDepuracion\bin\Debug\HerramientasDepuracion.exe
+C:\Users\enrique.munguia\Documents\Curso C#\HerramientasDepuracion\HerramientasDepuracion\bin\Debug\HerramientasDepuracion.pdb
+C:\Users\enrique.munguia\Documents\Curso C#\HerramientasDepuracion\HerramientasDepuracion\obj\Debug\HerramientasDepuracion.csprojResolveAssemblyReference.cache
