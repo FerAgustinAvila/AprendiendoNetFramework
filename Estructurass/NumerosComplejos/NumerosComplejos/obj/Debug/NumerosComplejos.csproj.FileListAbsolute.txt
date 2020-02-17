@@ -1,0 +1,6 @@
+C:\Users\enrique.munguia\Documents\Visual Studio 2015\Projects\NumerosComplejos\NumerosComplejos\bin\Debug\NumerosComplejos.exe.config
+C:\Users\enrique.munguia\Documents\Visual Studio 2015\Projects\NumerosComplejos\NumerosComplejos\bin\Debug\NumerosComplejos.exe
+C:\Users\enrique.munguia\Documents\Visual Studio 2015\Projects\NumerosComplejos\NumerosComplejos\bin\Debug\NumerosComplejos.pdb
+C:\Users\enrique.munguia\Documents\Visual Studio 2015\Projects\NumerosComplejos\NumerosComplejos\obj\Debug\NumerosComplejos.csprojResolveAssemblyReference.cache
+C:\Users\enrique.munguia\Documents\Visual Studio 2015\Projects\NumerosComplejos\NumerosComplejos\obj\Debug\NumerosComplejos.exe
+C:\Users\enrique.munguia\Documents\Visual Studio 2015\Projects\NumerosComplejos\NumerosComplejos\obj\Debug\NumerosComplejos.pdb
