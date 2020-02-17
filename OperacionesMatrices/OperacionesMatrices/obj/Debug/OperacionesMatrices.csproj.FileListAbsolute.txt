@@ -1,6 +1,0 @@
-c:\users\enrique.munguia\documents\visual studio 2015\Projects\OperacionesMatrices\OperacionesMatrices\bin\Debug\OperacionesMatrices.exe.config
-c:\users\enrique.munguia\documents\visual studio 2015\Projects\OperacionesMatrices\OperacionesMatrices\bin\Debug\OperacionesMatrices.exe
-c:\users\enrique.munguia\documents\visual studio 2015\Projects\OperacionesMatrices\OperacionesMatrices\bin\Debug\OperacionesMatrices.pdb
-c:\users\enrique.munguia\documents\visual studio 2015\Projects\OperacionesMatrices\OperacionesMatrices\obj\Debug\OperacionesMatrices.csprojResolveAssemblyReference.cache
-c:\users\enrique.munguia\documents\visual studio 2015\Projects\OperacionesMatrices\OperacionesMatrices\obj\Debug\OperacionesMatrices.exe
-c:\users\enrique.munguia\documents\visual studio 2015\Projects\OperacionesMatrices\OperacionesMatrices\obj\Debug\OperacionesMatrices.pdb

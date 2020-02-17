@@ -1,0 +1,11 @@
+c:\users\enrique.munguia\documents\visual studio 2015\Projects\UsoDeArreglos\UsoDeArreglos\bin\Debug\UsoDeArreglos.exe.config
+c:\users\enrique.munguia\documents\visual studio 2015\Projects\UsoDeArreglos\UsoDeArreglos\bin\Debug\UsoDeArreglos.exe
+c:\users\enrique.munguia\documents\visual studio 2015\Projects\UsoDeArreglos\UsoDeArreglos\bin\Debug\UsoDeArreglos.pdb
+c:\users\enrique.munguia\documents\visual studio 2015\Projects\UsoDeArreglos\UsoDeArreglos\obj\Debug\UsoDeArreglos.exe
+c:\users\enrique.munguia\documents\visual studio 2015\Projects\UsoDeArreglos\UsoDeArreglos\obj\Debug\UsoDeArreglos.pdb
+C:\Users\admin\source\repos\UsoDeArreglos\UsoDeArreglos\bin\Debug\UsoDeArreglos.exe.config
+C:\Users\admin\source\repos\UsoDeArreglos\UsoDeArreglos\bin\Debug\UsoDeArreglos.exe
+C:\Users\admin\source\repos\UsoDeArreglos\UsoDeArreglos\bin\Debug\UsoDeArreglos.pdb
+C:\Users\admin\source\repos\UsoDeArreglos\UsoDeArreglos\obj\Debug\UsoDeArreglos.csprojAssemblyReference.cache
+C:\Users\admin\source\repos\UsoDeArreglos\UsoDeArreglos\obj\Debug\UsoDeArreglos.exe
+C:\Users\admin\source\repos\UsoDeArreglos\UsoDeArreglos\obj\Debug\UsoDeArreglos.pdb

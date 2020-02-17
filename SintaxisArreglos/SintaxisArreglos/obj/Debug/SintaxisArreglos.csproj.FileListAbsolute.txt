@@ -1,6 +1,0 @@
-c:\users\enrique.munguia\documents\visual studio 2015\Projects\SintaxisArreglos\SintaxisArreglos\bin\Debug\SintaxisArreglos.exe.config
-c:\users\enrique.munguia\documents\visual studio 2015\Projects\SintaxisArreglos\SintaxisArreglos\bin\Debug\SintaxisArreglos.exe
-c:\users\enrique.munguia\documents\visual studio 2015\Projects\SintaxisArreglos\SintaxisArreglos\bin\Debug\SintaxisArreglos.pdb
-c:\users\enrique.munguia\documents\visual studio 2015\Projects\SintaxisArreglos\SintaxisArreglos\obj\Debug\SintaxisArreglos.csprojResolveAssemblyReference.cache
-c:\users\enrique.munguia\documents\visual studio 2015\Projects\SintaxisArreglos\SintaxisArreglos\obj\Debug\SintaxisArreglos.exe
-c:\users\enrique.munguia\documents\visual studio 2015\Projects\SintaxisArreglos\SintaxisArreglos\obj\Debug\SintaxisArreglos.pdb

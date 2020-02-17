@@ -1,5 +1,0 @@
-c:\users\enrique.munguia\documents\visual studio 2015\Projects\ClaseArray\ClaseArray\bin\Debug\ClaseArray.exe.config
-c:\users\enrique.munguia\documents\visual studio 2015\Projects\ClaseArray\ClaseArray\bin\Debug\ClaseArray.exe
-c:\users\enrique.munguia\documents\visual studio 2015\Projects\ClaseArray\ClaseArray\bin\Debug\ClaseArray.pdb
-c:\users\enrique.munguia\documents\visual studio 2015\Projects\ClaseArray\ClaseArray\obj\Debug\ClaseArray.exe
-c:\users\enrique.munguia\documents\visual studio 2015\Projects\ClaseArray\ClaseArray\obj\Debug\ClaseArray.pdb

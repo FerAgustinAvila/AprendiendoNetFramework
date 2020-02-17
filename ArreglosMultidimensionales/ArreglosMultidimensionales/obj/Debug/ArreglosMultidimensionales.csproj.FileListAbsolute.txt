@@ -1,5 +1,0 @@
-c:\users\enrique.munguia\documents\visual studio 2015\Projects\ArreglosMultidimensionales\ArreglosMultidimensionales\bin\Debug\ArreglosMultidimensionales.exe.config
-c:\users\enrique.munguia\documents\visual studio 2015\Projects\ArreglosMultidimensionales\ArreglosMultidimensionales\bin\Debug\ArreglosMultidimensionales.exe
-c:\users\enrique.munguia\documents\visual studio 2015\Projects\ArreglosMultidimensionales\ArreglosMultidimensionales\bin\Debug\ArreglosMultidimensionales.pdb
-c:\users\enrique.munguia\documents\visual studio 2015\Projects\ArreglosMultidimensionales\ArreglosMultidimensionales\obj\Debug\ArreglosMultidimensionales.exe
-c:\users\enrique.munguia\documents\visual studio 2015\Projects\ArreglosMultidimensionales\ArreglosMultidimensionales\obj\Debug\ArreglosMultidimensionales.pdb

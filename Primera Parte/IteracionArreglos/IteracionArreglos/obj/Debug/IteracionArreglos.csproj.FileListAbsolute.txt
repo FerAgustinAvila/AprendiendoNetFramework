@@ -1,0 +1,11 @@
+c:\users\enrique.munguia\documents\visual studio 2015\Projects\IteracionArreglos\IteracionArreglos\bin\Debug\IteracionArreglos.exe.config
+c:\users\enrique.munguia\documents\visual studio 2015\Projects\IteracionArreglos\IteracionArreglos\bin\Debug\IteracionArreglos.exe
+c:\users\enrique.munguia\documents\visual studio 2015\Projects\IteracionArreglos\IteracionArreglos\bin\Debug\IteracionArreglos.pdb
+c:\users\enrique.munguia\documents\visual studio 2015\Projects\IteracionArreglos\IteracionArreglos\obj\Debug\IteracionArreglos.exe
+c:\users\enrique.munguia\documents\visual studio 2015\Projects\IteracionArreglos\IteracionArreglos\obj\Debug\IteracionArreglos.pdb
+C:\Users\admin\source\repos\IteracionArreglos\IteracionArreglos\bin\Debug\IteracionArreglos.exe.config
+C:\Users\admin\source\repos\IteracionArreglos\IteracionArreglos\bin\Debug\IteracionArreglos.exe
+C:\Users\admin\source\repos\IteracionArreglos\IteracionArreglos\bin\Debug\IteracionArreglos.pdb
+C:\Users\admin\source\repos\IteracionArreglos\IteracionArreglos\obj\Debug\IteracionArreglos.csprojAssemblyReference.cache
+C:\Users\admin\source\repos\IteracionArreglos\IteracionArreglos\obj\Debug\IteracionArreglos.exe
+C:\Users\admin\source\repos\IteracionArreglos\IteracionArreglos\obj\Debug\IteracionArreglos.pdb
