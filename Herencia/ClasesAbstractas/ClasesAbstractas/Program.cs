@@ -17,6 +17,7 @@ namespace ClasesAbstractas
             EmpleadoNomina en = new EmpleadoNomina("Jane", "RH", 9000);
             en.Trabajar();
             Console.WriteLine("Salario por nómina: {0}", en.Salario);
+            Console.Read();
         }
     }
 }

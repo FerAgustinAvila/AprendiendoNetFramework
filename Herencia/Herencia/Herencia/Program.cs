@@ -17,6 +17,7 @@ namespace Herencia
             e.Saludar();
             e.Trabajar();
             Console.WriteLine(e);
+            Console.Read();
         }
     }
 }

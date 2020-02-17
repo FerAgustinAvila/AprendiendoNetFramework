@@ -1,0 +1,6 @@
+c:\users\enrique.munguia\documents\visual studio 2015\Projects\ComparacionObjetos\ComparacionObjetos\bin\Debug\ComparacionObjetos.exe.config
+c:\users\enrique.munguia\documents\visual studio 2015\Projects\ComparacionObjetos\ComparacionObjetos\bin\Debug\ComparacionObjetos.exe
+c:\users\enrique.munguia\documents\visual studio 2015\Projects\ComparacionObjetos\ComparacionObjetos\bin\Debug\ComparacionObjetos.pdb
+c:\users\enrique.munguia\documents\visual studio 2015\Projects\ComparacionObjetos\ComparacionObjetos\obj\Debug\ComparacionObjetos.csprojResolveAssemblyReference.cache
+c:\users\enrique.munguia\documents\visual studio 2015\Projects\ComparacionObjetos\ComparacionObjetos\obj\Debug\ComparacionObjetos.exe
+c:\users\enrique.munguia\documents\visual studio 2015\Projects\ComparacionObjetos\ComparacionObjetos\obj\Debug\ComparacionObjetos.pdb

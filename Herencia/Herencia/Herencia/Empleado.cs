@@ -17,6 +17,7 @@ namespace Herencia
             Sueldo = sueldo;
         }
 
+
         public override void Saludar()
         {
             Console.WriteLine("Hola, soy {0} y mi puesto es {1}", Nombre, Puesto);

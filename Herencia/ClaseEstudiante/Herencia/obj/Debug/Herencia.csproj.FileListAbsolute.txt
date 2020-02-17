@@ -13,3 +13,9 @@ C:\Users\enrique.munguia\Documents\Curso C#\ClaseEstudiante\Herencia\obj\Debug\H
 C:\Users\enrique.munguia\Documents\Curso C#\ClaseEstudiante\Herencia\bin\Debug\Herencia.exe
 C:\Users\enrique.munguia\Documents\Curso C#\ClaseEstudiante\Herencia\bin\Debug\Herencia.pdb
 C:\Users\enrique.munguia\Documents\Curso C#\ClaseEstudiante\Herencia\obj\Debug\Herencia.csprojResolveAssemblyReference.cache
+C:\Users\admin\source\repos\Herencia\ClaseEstudiante\Herencia\bin\Debug\Herencia.exe.config
+C:\Users\admin\source\repos\Herencia\ClaseEstudiante\Herencia\bin\Debug\Herencia.exe
+C:\Users\admin\source\repos\Herencia\ClaseEstudiante\Herencia\bin\Debug\Herencia.pdb
+C:\Users\admin\source\repos\Herencia\ClaseEstudiante\Herencia\obj\Debug\Herencia.csprojAssemblyReference.cache
+C:\Users\admin\source\repos\Herencia\ClaseEstudiante\Herencia\obj\Debug\Herencia.exe
+C:\Users\admin\source\repos\Herencia\ClaseEstudiante\Herencia\obj\Debug\Herencia.pdb
