@@ -40,7 +40,9 @@ namespace ClaseString
             Console.WriteLine("cadena es null? " + string.IsNullOrWhiteSpace(cadena));
 
             // Obtener la posición de un dato
-            Console.WriteLine("Posición de la cadena \"de\": " + cadena.IndexOf("de"));            
+            Console.WriteLine("Posición de la cadena \"de\": " + cadena.IndexOf("de"));
+
+            Console.Read();
         }
     }
 }

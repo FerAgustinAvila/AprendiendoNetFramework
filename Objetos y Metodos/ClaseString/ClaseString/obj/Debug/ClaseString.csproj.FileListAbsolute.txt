@@ -4,3 +4,9 @@ c:\users\enrique.munguia\documents\visual studio 2015\Projects\ClaseString\Clase
 c:\users\enrique.munguia\documents\visual studio 2015\Projects\ClaseString\ClaseString\obj\Debug\ClaseString.csprojResolveAssemblyReference.cache
 c:\users\enrique.munguia\documents\visual studio 2015\Projects\ClaseString\ClaseString\obj\Debug\ClaseString.exe
 c:\users\enrique.munguia\documents\visual studio 2015\Projects\ClaseString\ClaseString\obj\Debug\ClaseString.pdb
+C:\Users\admin\source\repos\Objetos y Metodos\ClaseString\ClaseString\bin\Debug\ClaseString.exe.config
+C:\Users\admin\source\repos\Objetos y Metodos\ClaseString\ClaseString\bin\Debug\ClaseString.exe
+C:\Users\admin\source\repos\Objetos y Metodos\ClaseString\ClaseString\bin\Debug\ClaseString.pdb
+C:\Users\admin\source\repos\Objetos y Metodos\ClaseString\ClaseString\obj\Debug\ClaseString.csprojAssemblyReference.cache
+C:\Users\admin\source\repos\Objetos y Metodos\ClaseString\ClaseString\obj\Debug\ClaseString.exe
+C:\Users\admin\source\repos\Objetos y Metodos\ClaseString\ClaseString\obj\Debug\ClaseString.pdb
