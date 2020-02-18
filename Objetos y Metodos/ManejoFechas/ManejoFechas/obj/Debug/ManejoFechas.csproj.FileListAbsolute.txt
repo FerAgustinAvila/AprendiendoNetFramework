@@ -1,0 +1,6 @@
+c:\users\enrique.munguia\documents\visual studio 2015\Projects\ManejoFechas\ManejoFechas\bin\Debug\ManejoFechas.exe.config
+c:\users\enrique.munguia\documents\visual studio 2015\Projects\ManejoFechas\ManejoFechas\bin\Debug\ManejoFechas.exe
+c:\users\enrique.munguia\documents\visual studio 2015\Projects\ManejoFechas\ManejoFechas\bin\Debug\ManejoFechas.pdb
+c:\users\enrique.munguia\documents\visual studio 2015\Projects\ManejoFechas\ManejoFechas\obj\Debug\ManejoFechas.csprojResolveAssemblyReference.cache
+c:\users\enrique.munguia\documents\visual studio 2015\Projects\ManejoFechas\ManejoFechas\obj\Debug\ManejoFechas.exe
+c:\users\enrique.munguia\documents\visual studio 2015\Projects\ManejoFechas\ManejoFechas\obj\Debug\ManejoFechas.pdb

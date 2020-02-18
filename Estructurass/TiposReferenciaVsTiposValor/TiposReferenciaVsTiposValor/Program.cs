@@ -20,6 +20,8 @@ namespace TiposReferenciaVsTiposValor
             Console.WriteLine("punto: ({0}, {1})", puntoV.X, puntoV.Y);
             Console.WriteLine("otroPunto: ({0}, {1})", otroPunto.X, otroPunto.Y);
 
+            Console.WriteLine();
+
             // Tipos de referencia
             Console.WriteLine("Tipos de referencia");
             PuntoRef puntoR = new PuntoRef(5, 10);
@@ -29,6 +31,8 @@ namespace TiposReferenciaVsTiposValor
             segundoPunto.Y = 300;
             Console.WriteLine("punto: ({0}, {1})", puntoR.X, puntoR.Y);
             Console.WriteLine("segundoPunto: ({0}, {1})", segundoPunto.X, segundoPunto.Y);
+
+            Console.Read();
         }
     }
 }

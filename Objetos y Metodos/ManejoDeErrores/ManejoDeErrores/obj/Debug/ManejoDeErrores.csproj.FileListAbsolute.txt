@@ -1,0 +1,5 @@
+c:\users\enrique.munguia\documents\visual studio 2015\Projects\ManejoDeErrores\ManejoDeErrores\bin\Debug\ManejoDeErrores.exe.config
+c:\users\enrique.munguia\documents\visual studio 2015\Projects\ManejoDeErrores\ManejoDeErrores\bin\Debug\ManejoDeErrores.exe
+c:\users\enrique.munguia\documents\visual studio 2015\Projects\ManejoDeErrores\ManejoDeErrores\bin\Debug\ManejoDeErrores.pdb
+c:\users\enrique.munguia\documents\visual studio 2015\Projects\ManejoDeErrores\ManejoDeErrores\obj\Debug\ManejoDeErrores.exe
+c:\users\enrique.munguia\documents\visual studio 2015\Projects\ManejoDeErrores\ManejoDeErrores\obj\Debug\ManejoDeErrores.pdb

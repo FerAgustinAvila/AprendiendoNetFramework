@@ -1,0 +1,6 @@
+c:\users\enrique.munguia\documents\visual studio 2015\Projects\UsoStringBuilder\UsoStringBuilder\bin\Debug\UsoStringBuilder.exe.config
+c:\users\enrique.munguia\documents\visual studio 2015\Projects\UsoStringBuilder\UsoStringBuilder\bin\Debug\UsoStringBuilder.exe
+c:\users\enrique.munguia\documents\visual studio 2015\Projects\UsoStringBuilder\UsoStringBuilder\bin\Debug\UsoStringBuilder.pdb
+c:\users\enrique.munguia\documents\visual studio 2015\Projects\UsoStringBuilder\UsoStringBuilder\obj\Debug\UsoStringBuilder.csprojResolveAssemblyReference.cache
+c:\users\enrique.munguia\documents\visual studio 2015\Projects\UsoStringBuilder\UsoStringBuilder\obj\Debug\UsoStringBuilder.exe
+c:\users\enrique.munguia\documents\visual studio 2015\Projects\UsoStringBuilder\UsoStringBuilder\obj\Debug\UsoStringBuilder.pdb

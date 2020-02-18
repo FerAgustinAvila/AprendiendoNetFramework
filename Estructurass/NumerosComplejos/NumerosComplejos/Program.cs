@@ -17,6 +17,8 @@ namespace NumerosComplejos
             Console.WriteLine(c2);
             Complejo resultado = c1.Suma(c2);
             Console.WriteLine(resultado);
+
+            Console.Read();
         }
     }
 }

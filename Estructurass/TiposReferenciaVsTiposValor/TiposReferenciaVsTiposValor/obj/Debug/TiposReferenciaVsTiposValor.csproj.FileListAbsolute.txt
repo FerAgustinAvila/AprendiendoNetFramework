@@ -3,3 +3,9 @@ c:\users\enrique.munguia\documents\visual studio 2015\Projects\TiposReferenciaVs
 c:\users\enrique.munguia\documents\visual studio 2015\Projects\TiposReferenciaVsTiposValor\TiposReferenciaVsTiposValor\bin\Debug\TiposReferenciaVsTiposValor.pdb
 c:\users\enrique.munguia\documents\visual studio 2015\Projects\TiposReferenciaVsTiposValor\TiposReferenciaVsTiposValor\obj\Debug\TiposReferenciaVsTiposValor.exe
 c:\users\enrique.munguia\documents\visual studio 2015\Projects\TiposReferenciaVsTiposValor\TiposReferenciaVsTiposValor\obj\Debug\TiposReferenciaVsTiposValor.pdb
+C:\Users\admin\source\repos\Estructurass\TiposReferenciaVsTiposValor\TiposReferenciaVsTiposValor\bin\Debug\TiposReferenciaVsTiposValor.exe.config
+C:\Users\admin\source\repos\Estructurass\TiposReferenciaVsTiposValor\TiposReferenciaVsTiposValor\bin\Debug\TiposReferenciaVsTiposValor.exe
+C:\Users\admin\source\repos\Estructurass\TiposReferenciaVsTiposValor\TiposReferenciaVsTiposValor\bin\Debug\TiposReferenciaVsTiposValor.pdb
+C:\Users\admin\source\repos\Estructurass\TiposReferenciaVsTiposValor\TiposReferenciaVsTiposValor\obj\Debug\TiposReferenciaVsTiposValor.csprojAssemblyReference.cache
+C:\Users\admin\source\repos\Estructurass\TiposReferenciaVsTiposValor\TiposReferenciaVsTiposValor\obj\Debug\TiposReferenciaVsTiposValor.exe
+C:\Users\admin\source\repos\Estructurass\TiposReferenciaVsTiposValor\TiposReferenciaVsTiposValor\obj\Debug\TiposReferenciaVsTiposValor.pdb

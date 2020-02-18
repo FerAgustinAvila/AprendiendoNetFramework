@@ -1,0 +1,6 @@
+C:\Users\enrique.munguia\Documents\Visual Studio 2015\Projects\NumerosAleatorios\NumerosAleatorios\bin\Debug\NumerosAleatorios.exe.config
+C:\Users\enrique.munguia\Documents\Visual Studio 2015\Projects\NumerosAleatorios\NumerosAleatorios\bin\Debug\NumerosAleatorios.exe
+C:\Users\enrique.munguia\Documents\Visual Studio 2015\Projects\NumerosAleatorios\NumerosAleatorios\bin\Debug\NumerosAleatorios.pdb
+C:\Users\enrique.munguia\Documents\Visual Studio 2015\Projects\NumerosAleatorios\NumerosAleatorios\obj\Debug\NumerosAleatorios.csprojResolveAssemblyReference.cache
+C:\Users\enrique.munguia\Documents\Visual Studio 2015\Projects\NumerosAleatorios\NumerosAleatorios\obj\Debug\NumerosAleatorios.exe
+C:\Users\enrique.munguia\Documents\Visual Studio 2015\Projects\NumerosAleatorios\NumerosAleatorios\obj\Debug\NumerosAleatorios.pdb
