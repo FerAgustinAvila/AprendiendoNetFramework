@@ -4,3 +4,9 @@ c:\users\enrique.munguia\documents\visual studio 2015\Projects\FormatoCadenas\Fo
 c:\users\enrique.munguia\documents\visual studio 2015\Projects\FormatoCadenas\FormatoCadenas\obj\Debug\FormatoCadenas.csprojResolveAssemblyReference.cache
 c:\users\enrique.munguia\documents\visual studio 2015\Projects\FormatoCadenas\FormatoCadenas\obj\Debug\FormatoCadenas.exe
 c:\users\enrique.munguia\documents\visual studio 2015\Projects\FormatoCadenas\FormatoCadenas\obj\Debug\FormatoCadenas.pdb
+C:\Users\admin\source\repos\Objetos y Metodos\FormatoCadenas\FormatoCadenas\obj\Debug\FormatoCadenas.csprojAssemblyReference.cache
+C:\Users\admin\source\repos\Objetos y Metodos\FormatoCadenas\FormatoCadenas\obj\Debug\FormatoCadenas.exe
+C:\Users\admin\source\repos\Objetos y Metodos\FormatoCadenas\FormatoCadenas\obj\Debug\FormatoCadenas.pdb
+C:\Users\admin\source\repos\Objetos y Metodos\FormatoCadenas\FormatoCadenas\bin\Debug\FormatoCadenas.exe.config
+C:\Users\admin\source\repos\Objetos y Metodos\FormatoCadenas\FormatoCadenas\bin\Debug\FormatoCadenas.exe
+C:\Users\admin\source\repos\Objetos y Metodos\FormatoCadenas\FormatoCadenas\bin\Debug\FormatoCadenas.pdb

@@ -26,6 +26,8 @@ namespace ManejoFechas
             Console.WriteLine(dt.AddDays(10));
             Console.WriteLine(dt.AddYears(-2));
             Console.WriteLine(dt.AddMinutes(45));
+
+            Console.Read();
         }
     }
 }

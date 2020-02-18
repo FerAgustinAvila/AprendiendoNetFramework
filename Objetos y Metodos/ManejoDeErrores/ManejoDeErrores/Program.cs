@@ -34,6 +34,8 @@ namespace ManejoDeErrores
             {
                 Console.WriteLine("Ocurrió un error vuelve a intentar");
             }
+
+            Console.Read();
         }
     }
 }

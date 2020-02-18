@@ -17,12 +17,21 @@ namespace FormatoCadenas
                 platanos, naranjas, manzanas);
             Console.WriteLine(resultado);
 
+            Console.WriteLine();
+            Console.WriteLine("PI");
+
             Console.WriteLine("Pi: {0:0.00}", Math.PI);
+
+            Console.WriteLine();
+            Console.WriteLine("Ajustar dato con 10 caracteres de espacios");
 
             // Ajustar dato con 10 caracteres de espacio
             Console.WriteLine(">{0, 10}<", 5);
             // Ajustar dato con 10 caracteres de espacio a la izquierda
             Console.WriteLine(">{0, -10}<", 5);
+
+            Console.WriteLine();
+            Console.WriteLine("Distintos formatos");
 
             // Distintos formatos
             int dato = 126;
@@ -31,6 +40,8 @@ namespace FormatoCadenas
             Console.WriteLine("Moneda: {0:C}", dato);
             Console.WriteLine("Porcentaje: {0:P}", dato);
             Console.WriteLine("Hexadecimal: {0:X}", dato);
+
+            Console.Read();
         }
     }
 }
